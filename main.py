@@ -2,6 +2,9 @@ import requests
 import sys
 print('connecting...')
 
+def create_dict():
+    
+
 # init
 username = input('Enter username: ')
 password = input('Enter Password: ')
